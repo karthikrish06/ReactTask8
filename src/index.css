@@ -1,0 +1,13 @@
+.cardImage{
+    object-fit: fill;
+    width: 300px;
+    height: 100%;
+}
+
+.quantityText{
+    width: 30px;
+    height: 2.25em;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+}
